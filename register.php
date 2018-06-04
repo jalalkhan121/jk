@@ -42,12 +42,12 @@ if(isset($_GET['e']) && $_GET['e'] != "") {
 	exit(0);
 	}
 /*
-  Plugin Name: Virtue WP Registrar 
-  Plugin URI: http://www.virtuenetz.com
+  Plugin Name:  WP Registrar 
+  Plugin URI: http://www.example.com
   Description: Registrer As a New User.
   Version: 1.0
-  Author: Awais Zafar
-  Author URI: http://www.virtuenetz.com
+  Author: Jalal Khan
+  Author URI: http://www.example.com
  */
 
 
